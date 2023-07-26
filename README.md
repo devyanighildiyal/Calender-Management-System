@@ -23,7 +23,7 @@ This is a 2-user input program. The teacher and student will input their respect
 
 ### 4) Tables
 
-#### TEACHER’S TABLE:
+#### * TEACHER’S TABLE:
 
  |   | Data Items     | Type of Data | Description                        |
  | - | -------------- | ------------ | ---------------------------------- |
@@ -31,7 +31,8 @@ This is a 2-user input program. The teacher and student will input their respect
  | 2 | Teacher Name   | VARCHAR      | To enter the teacher's name.       |
  | 3 | Time Available | VARCHAR      | To enter the time teacher is free. |
 
-Example of Tabular Representation of Data :
+
+#### Example of Tabular Representation of Data :
 
  | S.NO | NAME OF TEACHER | TIME BOOKED                                  |
  | ---- | --------------- | -------------------------------------------- |
@@ -41,7 +42,7 @@ Example of Tabular Representation of Data :
 
 
 
-STUDENT’S TABLE:
+#### * STUDENT’S TABLE:
 
 |   | Data Items     | Type of Data | Description                    |
 | - | -------------- | ------------ | ------------------------------ |
@@ -50,7 +51,7 @@ STUDENT’S TABLE:
 | 5 | Time Available | VARCHAR      | To enter time student is free. |
 
 
-Example of Tabular Representation of Data :
+#### Example of Tabular Representation of Data :
 
 | S.NO | NAME OF STUDENT   | TIME AVAILABLE                               |
 | ---- | ----------------- | -------------------------------------------- |
@@ -59,9 +60,9 @@ Example of Tabular Representation of Data :
 | -    | ---               | ---                                          |
 
 
-Menu Options
+### 5) Menu Options
 
-Teachers Information:
+#### * Teachers Information:
 
 | Main Menu | Sub Menu            |
 | --------- | ------------------- |
@@ -72,7 +73,7 @@ Teachers Information:
 
 
 
-Students Information:
+#### * Students Information:
 
 | Main Menu | Sub Menu            |
 | --------- | ------------------- |
@@ -83,7 +84,7 @@ Students Information:
 
 
 
-### 5) Validation and Add on Features   
+### 6) Validation and Add on Features   
 In case the user enters any wrong input, we will ask them to retry.The user can input data more than once in a single run and will have results accordingly.The database will be deleted once the whole code is told to quit. The coding will be user friendly and the users will find everything comfortable. 
 
 ## License
