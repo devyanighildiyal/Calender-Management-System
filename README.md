@@ -23,7 +23,7 @@ This is a 2-user input program. The teacher and student will input their respect
 
 
 ### 4) Validation and Add on Features   
-In case the user enters any wrong input, we will ask them to retry.The user can input data more than once in a single run and will have results accordingly.The database will be deleted once the whole code is told to quit. The coding will be user friendly and the users will find everything comfortable. We have some special things for some people which will be described properly in the coding. 
+In case the user enters any wrong input, we will ask them to retry.The user can input data more than once in a single run and will have results accordingly.The database will be deleted once the whole code is told to quit. The coding will be user friendly and the users will find everything comfortable. 
 
 ## License
 This project is licensed under the Creative Commons Zero v1.0 Universal license.
