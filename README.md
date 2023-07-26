@@ -1,4 +1,5 @@
 # Calender-Management-System
+For my high school final project, I designed and developed an efficient Python calendar management software, harnessing the power of Python's def functions and seamlessly integrating a MySQL database.
 
 ## Introduction:
 This project is all about software for the Calendar management system. It helps to manage the calendar between teachers and students.
