@@ -10,19 +10,19 @@ This project is all about software for the Calendar management system. It helps 
 
 ## About the System:
 
-### Aim:
+### 1) Aim:
 To take schedules or time tables of two people (teacher and student) and manage it to find the time during which both the parties would be available for a meeting by seeing the time occupied and taking in considerations the daily bounds
 
 
-### Plan For Implementation:
+### 2) Plan For Implementation:
 This is a 2-user input program. The teacher and student will input their respective time tables and the program will display the time slots in which both of them are free. This time slot would depend on the option selected by the student for example 5 minutes for a doubt, 2 minutes for general query and 45 minutes to an hour for any conceptual problem. The teacher would have the authorization to add, delete and change slots. 
 
 
-### Type of Data:
+### 3) Type of Data:
 * MySQL Database
 
 
-### Validation and Add on Features   
+### 4) Validation and Add on Features   
 In case the user enters any wrong input, we will ask them to retry.The user can input data more than once in a single run and will have results accordingly.The database will be deleted once the whole code is told to quit. The coding will be user friendly and the users will find everything comfortable. We have some special things for some people which will be described properly in the coding. 
 
 ## License
