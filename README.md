@@ -23,7 +23,7 @@ This is a 2-user input program. The teacher and student will input their respect
 
 ### 4) Tables
 
-#### * TEACHER’S TABLE:
+#### * MySQL TEACHER’S TABLE:
 
  |   | Data Items     | Type of Data | Description                        |
  | - | -------------- | ------------ | ---------------------------------- |
@@ -37,12 +37,12 @@ This is a 2-user input program. The teacher and student will input their respect
  | S.NO | NAME OF TEACHER | TIME BOOKED                                  |
  | ---- | --------------- | -------------------------------------------- |
  | 1.   | Mohitendra Dey  | 8:00-8:30,9:30-10:45,11:00-11:30,12:00-12:45 |
- |  -   | ---             | ---                                          |
- |  -   | ---             | ---                                          |
+ |  -   | ---             | -----                                        |
+ |  -   | ---             | -----                                        |
 
 
 
-#### * STUDENT’S TABLE:
+#### * MySQL STUDENT’S TABLE:
 
 |   | Data Items     | Type of Data | Description                    |
 | - | -------------- | ------------ | ------------------------------ |
@@ -56,8 +56,8 @@ This is a 2-user input program. The teacher and student will input their respect
 | S.NO | NAME OF STUDENT   | TIME AVAILABLE                               |
 | ---- | ----------------- | -------------------------------------------- |
 | 1.   | Devyani Ghildiyal | 8:10-8:40,9:00-10:55,11:00-11:30,12:10-12:55 |
-| -    | ---               | ---                                          |
-| -    | ---               | ---                                          |
+| -    | ---               | -----                                        |
+| -    | ---               | -----                                        |
 
 
 ### 5) Menu Options
