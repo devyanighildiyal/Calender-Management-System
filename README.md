@@ -23,12 +23,12 @@ This is a 2-user input program. The teacher and student will input their respect
 
 
 TEACHER’S TABLE:
-
-|   | Data Items     | Type of Data | Description                        |
+_________________________________________________________________________
+|   | Data Items     | Type of Data | Description                        |                                                               _________________________________________________________________________
 | 1 | S.No           | INT          | The serial number in the table.    |
 | 2 | Teacher Name   |VARCHAR       | To enter the teacher's name.       |
 | 3 | Time Available |VARCHAR       | To enter the time teacher is free. |
-
+__________________________________________________________________________
 
 Example of Tabular Representation of Data :
 
