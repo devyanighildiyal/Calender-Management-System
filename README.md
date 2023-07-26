@@ -35,8 +35,8 @@ Example of Tabular Representation of Data :
  | S.NO | NAME OF TEACHER | TIME BOOKED                                  |
  | ---- | --------------- | -------------------------------------------- |
  | 1.   | Mohitendra Dey  | 8:00-8:30,9:30-10:45,11:00-11:30,12:00-12:45 |
- |      |                 |                                              |
- |      |                 |                                              |
+ |  -   | ---             |                                              |
+ |  -   | ---             |                                              |
 
 
 
