@@ -51,9 +51,7 @@ STUDENT’S TABLE:
 
 Example of Tabular Representation of Data :
 
-| S.NO | NAME OF 
-
-STUDENT | TIME AVAILABLE                               |
+| S.NO | NAME OF STUDENT   | TIME AVAILABLE                               |
 | ---- | ----------------- | -------------------------------------------- |
 | 1.   | Devyani Ghildiyal | 8:10-8:40,9:00-10:55,11:00-11:30,12:10-12:55 |
 |      |                   |                                              |
